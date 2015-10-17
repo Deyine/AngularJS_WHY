@@ -1,0 +1,12 @@
+== README
+
+Things you may want to cover:
+
+* Installation
+bundle install
+
+* DB migration
+rake db:create db:migrate db:seed
+
+* Deploy
+rails s

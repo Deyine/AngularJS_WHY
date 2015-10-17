@@ -1,0 +1,800 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Java",
+				"JavaScript	(application.js)"
+			],
+			[
+				"youtube",
+				"youtube_link"
+			],
+			[
+				"pre",
+				"presentation"
+			],
+			[
+				"afri",
+				"afrikiosquemailer@gmail"
+			],
+			[
+				"last",
+				"last_publications	(routes.rb)"
+			],
+			[
+				"pub",
+				"publication"
+			],
+			[
+				"to",
+				"to_builder"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"zip",
+				"zip_data"
+			],
+			[
+				"down",
+				"download_publication	(library_controller.rb)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/presentations/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 1358,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/presentations_controller.rb",
+			"settings":
+			{
+				"buffer_size": 2217,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 398.0,
+		"last_filter": "html",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"",
+				"BeautifyRuby"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"beau",
+				"BeautifyRuby"
+			],
+			[
+				"git",
+				"Git: Diff Current File"
+			],
+			[
+				"ruby",
+				"BeautifyRuby"
+			],
+			[
+				"be",
+				"BeautifyRuby"
+			],
+			[
+				"inden",
+				"Auto indent"
+			],
+			[
+				"edito",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"beauti",
+				"BeautifyRuby"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git dif",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 534.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app/controllers",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app/views",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app/views/layouts",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app/views/presentations",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/db",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/db/migrate"
+	],
+	"file_history":
+	[
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app/models/presentation.rb",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app/assets/stylesheets/application.css",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app/assets/javascripts/application.js",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app/views/layouts/application.html.erb",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app/views/presentations/index.html.erb",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app/views/presentations/index.json.jbuilder",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/config/routes.rb",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/db/migrate/20151009184503_create_presentations.rb",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app/controllers/presentations_controller.rb",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/Gemfile",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/db/seeds.rb",
+		"/home/dmahmoud/data/presentation/AngularJS_WHY/drug_app/app/views/presentations/list.html.erb",
+		"/home/dmahmoud/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/models/library.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/api/v1/edition_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/models/edition.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/models/publication.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/api/v1/library_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/models/rubric.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/views/portal_editors/editor_portal.html.erb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/views/portal_editors/temporary_publication.html.erb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/config/initializers/globals.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/config/initializers/dragonfly.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/models/country.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/config/routes.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/db/seeds.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/models/publication_image.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/editions_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/Gemfile",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/Gemfile.lock",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/models/user.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/registrations_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/api/v1/api_base_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/api/v1/registrations_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/api/v1/sessions_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/api/v1/slide_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/models/slide.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/config/locales/devise.fr.yml",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/api/v1/publication_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/library_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/assets/javascripts/editions/controllers.js",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/models/subscription.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/assets/javascripts/kina-reader-js/kina_reader.js",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/public/assets/rails_admin/rails_admin-0443232850a825c76987b4d2a3cb6477.js",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/jobs/subscription_reminder_job.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/application_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/administration_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/controllers/bills_controller.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/models/temporary_publication.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/models/cart.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/.editorconfig",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/config/initializers/simple_token_authentication.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/config/initializers/devise_token_auth.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/db/migrate/20150329222651_devise_token_auth_create_users.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/config/database.yml",
+		"/home/dmahmoud/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/dmahmoud/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/app/mailers/application_mailer.rb",
+		"/home/dmahmoud/DEV/workspace/rails/Afrikiosk/db/migrate/20150107151113_create_editions.rb"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"favicon.ico",
+			"img",
+			"imag",
+			"margin: 40",
+			"imag",
+			"main",
+			"json_simple_entity",
+			"periodicity",
+			"with_type",
+			"editor6",
+			"last_maga",
+			"last_edi",
+			"selected_country",
+			"select_country",
+			"pdf_to_image_list",
+			"mobile_image_url",
+			"mobileImgProcessor",
+			"mobile_image_url",
+			"Ce mail n'est pas valide",
+			"zip",
+			"reset_authentication_token",
+			"submitCheck",
+			"checkFromImage",
+			"search",
+			"slide",
+			"expired",
+			"require",
+			"bin/setup",
+			"require(\"../../../../bin/setup\")",
+			"require(\"../../../../bin/setup\");",
+			"var setup=require(\"../../../../bin/setup\");",
+			"dragon",
+			"(!params[:datedebut].present?) && (!params[:datefin].present?)",
+			"DeviseTokenAuth",
+			"uid",
+			"provider",
+			"rmagick"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/presentations/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1091,
+								1091
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/presentations_controller.rb",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2217,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"project": "drug_app.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"app/views/presentations/index.html.erb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"styles.css",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"presentation.rb",
+				"app/models/presentation.rb"
+			],
+			[
+				"presentation.",
+				"app/models/presentation.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"presentation",
+				"app/views/presentations/index.html.erb"
+			],
+			[
+				"application",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"ro",
+				"config/routes.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"edition_controller",
+				"app/controllers/api/v1/edition_controller.rb"
+			],
+			[
+				"library",
+				"app/models/library.rb"
+			],
+			[
+				"bill",
+				"app/models/bill.rb"
+			],
+			[
+				"lin",
+				"app/models/line_item.rb"
+			],
+			[
+				"subsc",
+				"app/models/subscription.rb"
+			],
+			[
+				"publication",
+				"app/models/publication.rb"
+			],
+			[
+				"edition_",
+				"app/controllers/api/v1/edition_controller.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"edition_con",
+				"app/controllers/api/v1/edition_controller.rb"
+			],
+			[
+				"edition",
+				"app/models/edition.rb"
+			],
+			[
+				"editions_con",
+				"app/controllers/editions_controller.rb"
+			],
+			[
+				"temporary",
+				"app/views/portal_editors/temporary_publication.html.erb"
+			],
+			[
+				"editorportal",
+				"app/views/portal_editors/editor_portal.html.erb"
+			],
+			[
+				"publica",
+				"app/models/publication_image.rb"
+			],
+			[
+				"rubric",
+				"app/models/rubric.rb"
+			],
+			[
+				"country",
+				"app/models/country.rb"
+			],
+			[
+				"dragon",
+				"config/initializers/dragonfly.rb"
+			],
+			[
+				"pub",
+				"app/models/publication.rb"
+			],
+			[
+				"libra",
+				"app/models/library.rb"
+			],
+			[
+				"publi",
+				"app/models/publication_image.rb"
+			],
+			[
+				"public",
+				"app/models/publication.rb"
+			],
+			[
+				"registrat",
+				"app/controllers/registrations_controller.rb"
+			],
+			[
+				"publication_image",
+				"app/models/publication_image.rb"
+			],
+			[
+				"dra",
+				"config/initializers/dragonfly.rb"
+			],
+			[
+				"slide",
+				"app/models/slide.rb"
+			],
+			[
+				"reg",
+				"app/controllers/api/v1/registrations_controller.rb"
+			],
+			[
+				"subs",
+				"app/models/subscription.rb"
+			],
+			[
+				"subscr",
+				"app/jobs/subscription_reminder_job.rb"
+			],
+			[
+				"kina",
+				"app/assets/javascripts/kina-reader-js/kina_reader.js"
+			],
+			[
+				"seed.r",
+				"db/seeds.rb"
+			],
+			[
+				"subscription_reminder_job",
+				"app/jobs/subscription_reminder_job.rb"
+			],
+			[
+				"registrations_controller",
+				"app/controllers/registrations_controller.rb"
+			],
+			[
+				"api_base_controller",
+				"app/controllers/api/v1/api_base_controller.rb"
+			],
+			[
+				"gemf",
+				"Gemfile.lock"
+			],
+			[
+				"bills_con",
+				"app/controllers/bills_controller.rb"
+			],
+			[
+				"administration_con",
+				"app/controllers/administration_controller.rb"
+			],
+			[
+				"temporar",
+				"app/models/temporary_publication.rb"
+			],
+			[
+				"cart",
+				"app/models/cart.rb"
+			],
+			[
+				"devise_to",
+				"config/initializers/devise_token_auth.rb"
+			],
+			[
+				"devise_token",
+				"db/migrate/20150329222651_devise_token_auth_create_users.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"eition",
+				"app/controllers/editions_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

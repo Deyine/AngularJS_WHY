@@ -1,0 +1,26 @@
+{
+  "name": "drug-frontend",
+  "version": "0.0.1",
+  "author": "Deyine Jiddou deyine.jiddou@gmail.com",
+  "devDependencies": {
+    "bower": "1.4.1",
+    "del": "1.2.0",
+    "gulp": "gulpjs/gulp#4.0",
+    "gulp-angular-filesort": "1.1.1",
+    "gulp-angular-templatecache": "1.6.0",
+    "gulp-concat": "2.5.2",
+    "gulp-connect": "2.2.0",
+    "gulp-minify-css": "1.1.1",
+    "gulp-inject": "1.2.0",
+    "gulp-rename": "1.2.2",
+    "gulp-sourcemaps": "1.5.2",
+    "gulp-uglify": "1.2.0",
+    "main-bower-files": "2.7.1",
+    "proxy-middleware": "0.12.0"
+  },
+  "scripts": {
+    "bower-install": "$(npm bin)/bower install",
+    "start": "$(npm bin)/gulp",
+    "cibuild": "$(npm bin)/gulp cibuild && $(npm bin)/gulp dist && $(npm bin)/gulp server-dist"
+  }
+}
